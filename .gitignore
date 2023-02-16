@@ -12,3 +12,5 @@ auth.json
 .phpunit.result/
 .php_cs.cache
 .php-cs-fixer.cache
+
+.phpunit.cache
